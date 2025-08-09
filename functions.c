@@ -2,7 +2,7 @@
  * functions.c
  *
  *  Created on: Aug 8, 2025
- *      Author: fatma foley
+ *      Author: Fatma Foley
  */
 
 
@@ -333,3 +333,4 @@ void deleteStudent(int id)
     printf("The ID %d was not found\n", id);
     fflush(stdout);
 }
+
