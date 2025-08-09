@@ -2,7 +2,7 @@
  * functions.h
  *
  *  Created on: Aug 8, 2025
- *      Author: fatma foley
+ *      Author: Fatma Foley
  */
 
 #ifndef FUNCTIONS_H_
@@ -46,3 +46,4 @@ void searchHighestGPA(void);
 void deleteStudent(int id);
 
 #endif /* FUNCTIONS_H_ */
+
